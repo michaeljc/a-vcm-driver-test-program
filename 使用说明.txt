@@ -1,0 +1,3 @@
+1.使用此软件需先安装python
+2.请使用python3.x的X86版本，因为此文件使用dll为x86的版本，如使用x64版本的python3.x或者python2.x都将出现兼容性问题。
+3.双击9800_TEST_PROGRAM_Vx.x.py即可运行程序。或者在CMD下通过python运行此文件。
